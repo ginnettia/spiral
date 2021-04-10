@@ -4,5 +4,5 @@ def spiralize(number):
     #Declare x
     x = (3 + 2 * n * (8 * n * n + 15 * n + 13)) /3
     return_value = x
-    #return valu
+    #return 
     return return_value
